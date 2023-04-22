@@ -70,7 +70,7 @@ header p {
 header .hero-img {
 	position: relative;
 	height: 100vh;
-	background-image: url('../img/playstation-g52466dcf3_640.jpg');
+	background-image: url('../img/team/Hospital.jpg');
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -136,7 +136,7 @@ header .fa-chevron-down {
 
 .aboutus-hero {
 	position: relative;
-	background-image: url('../img/computer-chip-6777179_640.jpg');
+	background-image: url('../img/team/pexels-640.jpg');
 	background-position: center;
 	background-size: cover;
 	color: #ddd;
@@ -299,7 +299,7 @@ header .fa-chevron-down {
 
 .contact {
 	position: relative;
-	background-image: url('../img/contact-hero.jpg');
+
 	background-position: bottom;
 	background-attachment: fixed;
 	background-size: cover;
@@ -379,7 +379,7 @@ header .fa-chevron-down {
 		height: 82px;
 	}
 	.aboutus-hero {
-		background-image: url('../img/computer-chip-6777179_640.jpg');
+		background-image: url('../img/team/pexels1920.jpg');
 	}
 	.prices .price-info {
 		font-size: 18px;
@@ -387,6 +387,6 @@ header .fa-chevron-down {
 }
 @media (min-width: 1200px) {
 	header .hero-img {
-		background-image: url('../img/playstation-g3f17a23e3_1920.jpg');
+		background-image: url('../img/team/Hospital.jpg');
 	}
 } /*# sourceMappingURL=main.css.map */
